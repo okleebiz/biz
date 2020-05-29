@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER "OKLEE"
+MAINTAINER "OKLEE2"
 LABEL "purpose"="practice"
 RUN apt-get update
 RUN apt-get install apache2 -y
